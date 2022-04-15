@@ -1,4 +1,4 @@
-Country,Continent,AvgGdpPerCapita,AvgVacPerHundred,Pop
+country,continent,gdpPercap,lifeExp,pop
 Afghanistan,Asia,"1,804",5,"30,593,608,704"
 Albania,Europe,"11,803",23,"2,203,540,378"
 Algeria,Africa,"13,914",11,"34,220,952,142"
