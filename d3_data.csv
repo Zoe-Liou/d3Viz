@@ -1,4 +1,4 @@
-Country,Continent,Gdp Per Capita,People Fully Vaccinated Per Hundred,Population
+Country,Continent,GdpPerCap,PeoFulVacPerHundred,Population
 Afghanistan,Asia,"1,385,462",195,"30,593,608,704"
 Albania,Europe,"9,053,232","4,354","2,203,540,378"
 Algeria,Africa,"10,671,915",221,"34,220,952,142"
