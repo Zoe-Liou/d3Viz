@@ -4,43 +4,43 @@
 "Algeria","Africa",13914.0,11.0,44616626
 "Angola","Africa",5819.0,7.0,33933611
 "Antigua and Barbuda","America",21491.0,38.0,98728
-"Argentina","South America",18934.0,34.0,45605823
+"Argentina","America",18934.0,34.0,45605823
 "Armenia","Asia",8788.0,13.0,2968128
-"Aruba","North America",35974.0,61.0,107195
+"Aruba","America",35974.0,61.0,107195
 "Australia","Oceania",44649.0,39.0,25788217
 "Austria","Europe",45437.0,43.0,9043072
 "Azerbaijan","Asia",15847.0,29.0,10223344
-"Bahamas","North America",27718.0,23.0,396914
+"Bahamas","America",27718.0,23.0,396914
 "Bahrain","Asia",43291.0,53.0,1748295
 "Bangladesh","Asia",3524.0,15.0,166303494
-"Barbados","North America",16978.0,38.0,287708
+"Barbados","America",16978.0,38.0,287708
 "Belarus","Europe",17168.0,22.0,9442867
 "Belgium","Europe",42659.0,46.0,11632334
-"Belize","North America",7824.0,22.0,404915
+"Belize","America",7824.0,22.0,404915
 "Benin","Africa",2064.0,7.0,12451031
-"Bermuda","North America",50669.0,54.0,62092
+"Bermuda","America",50669.0,54.0,62092
 "Bhutan","Asia",8709.0,58.0,779900
-"Bolivia","South America",6886.0,22.0,11832936
+"Bolivia","America",6886.0,22.0,11832936
 "Bosnia and Herzegovina","Europe",11714.0,9.0,3263459
 "Botswana","Africa",15807.0,16.0,2397240
-"Brazil","South America",14103.0,35.0,213993441
+"Brazil","America",14103.0,35.0,213993441
 "Brunei","Asia",71809.0,37.0,441532
 "Bulgaria","Europe",18563.0,15.0,6896655
 "Burkina Faso","Africa",1703.0,3.0,21497097
 "Burundi","Africa",702.0,0.0,12255429
 "Cambodia","Asia",3645.0,47.0,16946446
 "Cameroon","Africa",3365.0,1.0,27224262
-"Canada","North America",44018.0,43.0,38067913
+"Canada","America",44018.0,43.0,38067913
 "Cape Verde","Africa",6223.0,24.0,561901
-"Cayman Islands","North America",49903.0,58.0,66498
+"Cayman Islands","America",49903.0,58.0,66498
 "Central African Republic","Africa",661.0,9.0,4919987
 "Chad","Africa",1768.0,0.0,16914985
-"Chile","South America",22767.0,57.0,19212362
+"Chile","America",22767.0,57.0,19212362
 "China","Asia",15309.0,79.0,1444216102
-"Colombia","South America",13255.0,31.0,51265841
+"Colombia","America",13255.0,31.0,51265841
 "Comoros","Africa",1414.0,18.0,888456
 "Congo","Africa",4881.0,4.0,5657017
-"Costa Rica","North America",15525.0,32.0,5139053
+"Costa Rica","America",15525.0,32.0,5139053
 "Cote d'Ivoire","Africa",3601.0,7.0,27053629
 "Croatia","Europe",22670.0,32.0,4081657
 "Cyprus","Europe",32415.0,47.0,896005
@@ -48,11 +48,11 @@
 "Democratic Republic of Congo","Africa",808.0,0.0,92377986
 "Denmark","Europe",46683.0,48.0,5813302
 "Djibouti","Africa",2705.0,6.0,1002197
-"Dominica","North America",9673.0,31.0,72172
-"Dominican Republic","North America",14601.0,40.0,10953714
-"Ecuador","South America",10582.0,36.0,17888474
+"Dominica","America",9673.0,31.0,72172
+"Dominican Republic","America",14601.0,40.0,10953714
+"Ecuador","America",10582.0,36.0,17888474
 "Egypt","Africa",10550.0,10.0,104258327
-"El Salvador","North America",7292.0,36.0,6518500
+"El Salvador","America",7292.0,36.0,6518500
 "Equatorial Guinea","Africa",22605.0,9.0,1449891
 "Estonia","Europe",29481.0,37.0,1325188
 "Eswatini","Africa",7739.0,14.0,1172369
@@ -66,13 +66,13 @@
 "Germany","Europe",45229.0,42.0,83900471
 "Ghana","Africa",4228.0,5.0,31732128
 "Greece","Europe",24574.0,44.0,10370747
-"Grenada","North America",13594.0,19.0,113015
-"Guatemala","North America",7424.0,12.0,18249868
+"Grenada","America",13594.0,19.0,113015
+"Guatemala","America",7424.0,12.0,18249868
 "Guinea","Africa",1999.0,4.0,13497237
 "Guinea-Bissau","Africa",1549.0,4.0,2015490
-"Guyana","South America",7435.0,27.0,790329
-"Haiti","North America",1653.0,0.0,11541683
-"Honduras","North America",4542.0,19.0,10062994
+"Guyana","America",7435.0,27.0,790329
+"Haiti","America",1653.0,0.0,11541683
+"Honduras","America",4542.0,19.0,10062994
 "Hong Kong","Asia",56055.0,40.0,7552800
 "Hungary","Europe",26778.0,40.0,9634162
 "Iceland","Europe",46483.0,42.0,368792
@@ -83,7 +83,7 @@
 "Ireland","Europe",67335.0,46.0,4982904
 "Israel","Asia",33132.0,52.0,9291000
 "Italy","Europe",35220.0,45.0,60367471
-"Jamaica","North America",8194.0,16.0,2973462
+"Jamaica","America",8194.0,16.0,2973462
 "Japan","Asia",39002.0,39.0,126050796
 "Jordan","Asia",8337.0,27.0,10269022
 "Kazakhstan","Asia",24056.0,30.0,18994958
@@ -109,7 +109,7 @@
 "Malta","Europe",36513.0,59.0,516100
 "Mauritania","Africa",3598.0,10.0,4775110
 "Mauritius","Africa",20293.0,51.0,1273428
-"Mexico","North America",17336.0,26.0,130262220
+"Mexico","America",17336.0,26.0,130262220
 "Moldova","Europe",5190.0,16.0,4024025
 "Mongolia","Asia",11841.0,56.0,3329282
 "Montenegro","Europe",16409.0,29.0,628051
@@ -121,7 +121,7 @@
 "Nepal","Asia",2443.0,23.0,29674920
 "Netherlands","Europe",48473.0,46.0,17173094
 "New Zealand","Oceania",36086.0,37.0,5126300
-"Nicaragua","North America",5321.0,33.0,6702379
+"Nicaragua","America",5321.0,33.0,6702379
 "Niger","Africa",926.0,2.0,25130810
 "Nigeria","Africa",5338.0,1.0,211400704
 "North Macedonia","Europe",13111.0,21.0,2082661
@@ -129,10 +129,10 @@
 "Oman","Asia",37961.0,15.0,5223376
 "Pakistan","Asia",5035.0,21.0,225199929
 "Palestine","Asia",4450.0,10.0,5222756
-"Panama","North America",22267.0,30.0,4381583
+"Panama","America",22267.0,30.0,4381583
 "Papua New Guinea","Oceania",3823.0,2.0,9119005
-"Paraguay","South America",8827.0,9.0,7219641
-"Peru","South America",12237.0,32.0,33359415
+"Paraguay","America",8827.0,9.0,7219641
+"Peru","America",12237.0,32.0,33359415
 "Philippines","Asia",7599.0,19.0,111046910
 "Poland","Europe",27216.0,37.0,37797000
 "Portugal","Europe",27937.0,47.0,10167923
@@ -140,9 +140,9 @@
 "Romania","Europe",23313.0,25.0,19127772
 "Russia","Europe",24766.0,25.0,145912022
 "Rwanda","Africa",1854.0,14.0,13276517
-"Saint Kitts and Nevis","North America",24654.0,37.0,53546
-"Saint Lucia","North America",12952.0,19.0,184401
-"Saint Vincent and the Grenadines","North America",10727.0,19.0,111269
+"Saint Kitts and Nevis","America",24654.0,37.0,53546
+"Saint Lucia","America",12952.0,19.0,184401
+"Saint Vincent and the Grenadines","America",10727.0,19.0,111269
 "Samoa","Oceania",6022.0,34.0,200144
 "San Marino","Europe",56861.0,38.0,34010
 "Sao Tome and Principe","Africa",3053.0,12.0,223364
@@ -152,7 +152,7 @@
 "Seychelles","Africa",26382.0,49.0,98910
 "Sierra Leone","Africa",1390.0,3.0,8141343
 "Singapore","Asia",85535.0,53.0,5453600
-"Sint Maarten (Dutch part)","North America",36327.0,50.0,43421
+"Sint Maarten (Dutch part)","America",36327.0,50.0,43421
 "Slovakia","Europe",30155.0,32.0,5449270
 "Slovenia","Europe",31401.0,35.0,2078723
 "Solomon Islands","Oceania",2206.0,7.0,703995
@@ -162,7 +162,7 @@
 "Spain","Europe",34272.0,49.0,46745211
 "Sri Lanka","Asia",11669.0,42.0,21497306
 "Sudan","Africa",4467.0,2.0,44909351
-"Suriname","South America",13767.0,22.0,591798
+"Suriname","America",13767.0,22.0,591798
 "Sweden","Europe",46949.0,44.0,10160159
 "Switzerland","Europe",57410.0,40.0,8715494
 "Tajikistan","Asia",2897.0,14.0,9749625
@@ -171,7 +171,7 @@
 "Timor","Asia",6570.0,23.0,1343875
 "Togo","Africa",1430.0,7.0,8478242
 "Tonga","Oceania",5426.0,38.0,106759
-"Trinidad and Tobago","North America",28763.0,31.0,1403374
+"Trinidad and Tobago","America",28763.0,31.0,1403374
 "Tunisia","Africa",10849.0,28.0,11935764
 "Turkey","Asia",25129.0,38.0,85042736
 "Turkmenistan","Asia",16389.0,35.0,6117933
@@ -180,11 +180,11 @@
 "Ukraine","Europe",7894.0,13.0,43466822
 "United Arab Emirates","Asia",67293.0,82.0,9991083
 "United Kingdom","Europe",39753.0,47.0,68207114
-"United States","North America",54225.0,43.0,332915074
-"Uruguay","South America",20551.0,61.0,3485152
+"United States","America",54225.0,43.0,332915074
+"Uruguay","America",20551.0,61.0,3485152
 "Uzbekistan","Asia",6253.0,16.0,33935765
 "Vanuatu","Oceania",2922.0,11.0,314464
-"Venezuela","South America",16745.0,27.0,28704947
+"Venezuela","America",16745.0,27.0,28704947
 "Vietnam","Asia",6172.0,16.0,98168829
 "Yemen","Asia",1479.0,1.0,30490639
 "Zambia","Africa",3689.0,4.0,18920657
